@@ -1,0 +1,1 @@
+{"_$ver":1,"_$id":"lx8mwule","_$runtime":"P8tRmVAQQsKgur_TjLuHPg","_$type":"Scene","left":0,"right":0,"top":0,"bottom":0,"name":"Scene2D","_$comp":[{"_$type":"t3951-V0QX-L4ZPGSj-pnA","layer":0,"clickClose":false,"soundShow":false,"repeatOpen":false,"tweenOpenTime":100}]}

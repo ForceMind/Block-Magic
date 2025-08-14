@@ -1,0 +1,1 @@
+console.log('subpackage resources/Spine loaded');
